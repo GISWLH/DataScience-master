@@ -12,7 +12,7 @@
 
 | Figure                                                       |                             Name                             | Web/Book                                                     | Description                              |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | ------------------------------------------------------------ | ---------------------------------------- |
-| <img src="https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230626210758913.png" alt="image-20230626210758913" style="zoom: 33%;" /> |                Introduction to Linear algebra                | [Introduction_to_Linear_Algebra_by_Gilbert_Strang.pdf](books/Introduction_to_Linear_Algebra_by_Gilbert_Strang.pdf) | 麻省理工学院英文原版教材《线性代数导论》 |
+| <img src="https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230626210758913.png" alt="image-20230626210758913" style="zoom: 33%;" /> |                Introduction to Linear algebra                | have been removed for copyright                              | 麻省理工学院英文原版教材《线性代数导论》 |
 | <img src="https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230626211214.png" style="zoom:50%;" /> |               MATHEMATICS FOR MACHINE LEARNING               | [MATHEMATICS_FOR_MACHINE_LEARNING.pdf](books/MATHEMATICS_FOR_MACHINE_LEARNING.pdf) | 《机器学习中的数学》                     |
 | <img src="https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/20230626211702.png" style="zoom:50%;" /> | The Calculus Lifesaver: All the Tools You Need to Excel at Calculus | [普林斯顿微积分读本(英文版).pdf](books/普林斯顿微积分读本(英文版).pdf) | 普林斯顿微积分读本（这本似乎有中文版）   |
 
