@@ -88,6 +88,7 @@
 | ![image-20230627165557393](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230627165557393.png) | Deep Learning                                                | 英文版： [Deep_Learning_Yoshua_Bengio.pdf](books/Deep_Learning_Yoshua_Bengio.pdf) 中文版： [dlbook_cn_public.pdf](books/dlbook_cn_public.pdf) | 深度学习四大名著之四               |
 | ![image-20230627165715323](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230627165715323.png) | Pytorch深度学习实战                                          | 中文版 [《pytorch深度学习实战》中文PDF+伊莱.pdf](books/《pytorch深度学习实战》中文PDF+伊莱.pdf) 英文版： [Deep_Learning_With_Pytorch.pdf](books/Deep_Learning_With_Pytorch .pdf) | 中英版                             |
 | ![image-20230627165905693](https://imagecollection.oss-cn-beijing.aliyuncs.com/legion/image-20230627165905693.png) | Pytorch物体检测实战                                          | [深度学习之PyTorch物体检测实战.pdf](books/深度学习之PyTorch物体检测实战.pdf) | 物体检测实战                       |
+| ![image-20231126112429819](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20231126112429819.png) | 可解释的机器学习                                             | [iml_chinese.pdf](books\iml_chinese.pdf)                     |                                    |
 |                                                              |                                                              |                                                              |                                    |
 
 ## NL
