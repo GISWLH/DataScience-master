@@ -1,5 +1,7 @@
 # Data Science Tutorial
 
+![image-20250809012527062](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20250809012527062.png)
+
 ## 中英文对照
 
 * ML——Machine Learning 机器学习
