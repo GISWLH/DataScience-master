@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![DataScience-master — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Data Science Tutorial
 
 ![image-20250809012527062](https://imagecollection.oss-cn-beijing.aliyuncs.com/office/image-20250809012527062.png)
@@ -1103,3 +1107,7 @@ ______
 * [Surprise](http://surpriselib.com/)
 
 参考[Mikoto10032](https://github.com/Mikoto10032/DeepLearning/commits?author=Mikoto10032)
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
